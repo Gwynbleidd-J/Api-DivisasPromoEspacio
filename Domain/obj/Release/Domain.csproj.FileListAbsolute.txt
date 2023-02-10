@@ -1,0 +1,11 @@
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Domain\bin\Release\Domain.dll
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Domain\bin\Release\Domain.pdb
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Domain\bin\Release\DataAccess.dll
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Domain\bin\Release\Entities.dll
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Domain\bin\Release\DataAccess.pdb
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Domain\bin\Release\Entities.pdb
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Domain\obj\Release\Domain.csproj.AssemblyReference.cache
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Domain\obj\Release\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Domain\obj\Release\Domain.csproj.CopyComplete
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Domain\obj\Release\Domain.dll
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Domain\obj\Release\Domain.pdb

@@ -1,0 +1,9 @@
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\DataAccess\bin\Debug\Entities.dll
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\DataAccess\bin\Debug\Entities.pdb
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\DataAccess\obj\Debug\DataAccess.pdb

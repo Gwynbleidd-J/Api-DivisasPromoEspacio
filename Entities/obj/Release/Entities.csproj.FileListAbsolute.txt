@@ -1,0 +1,6 @@
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Entities\bin\Release\Entities.dll
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Entities\bin\Release\Entities.pdb
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Entities\obj\Release\Entities.csproj.AssemblyReference.cache
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Entities\obj\Release\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Entities\obj\Release\Entities.dll
+C:\Users\Juan Carlos Lara\source\repos\API_Encuestas_PromoEspacio\Entities\obj\Release\Entities.pdb
